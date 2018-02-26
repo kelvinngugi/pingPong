@@ -1,0 +1,13 @@
+.list{
+    list-style-type: none;
+}
+.jumbotron{
+    color: purple;
+    background-color: grey;
+}
+#sidebar{
+    background-image: url("../image/color.jpeg");
+}
+.col-sm-8{
+    background-color: purple;
+}
